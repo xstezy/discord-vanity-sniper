@@ -1,2 +1,3 @@
-# mfa-fix-sniper
-Discord Vanity Sniper
+# Fixed Vanity Sniper
+
+daha iyileri için @stezyxl bilen bilir
