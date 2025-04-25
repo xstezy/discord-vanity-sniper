@@ -1,6 +1,6 @@
 @echo off
 title stezy x wiase vanity sniper
 :a
-node index.mjss
+node index.mjs
 goto a
 pause
